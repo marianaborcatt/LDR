@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(152, 100, 237);
+    color: white;
+}
+nav{
+    text-align: center; 
+}
+
+nav a{
+    font-size: 28px;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+}
+a:hover{
+    background-color: rgb(102, 60, 156);
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 32px;
+}
+p{
+    font-size: 30px;
+   
+}
+.video iframe, .mapa iframe{
+    border: solid rgb(230, 200, 243) 10px;
+    border-radius: 16px;
+    
+}
+.video, .mapa{
+    text-align: center;
+}
+div img{
+    border: solid rgb(222, 185, 238) 10px;
+    border-radius: 16px;
+}
+small{
+    font-size: 20px;
+    text-decoration: none;
+}
+div a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
